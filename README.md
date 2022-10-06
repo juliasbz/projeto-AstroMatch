@@ -2,12 +2,17 @@
 
 ## 💻 Sobre o projeto
 
-
+O AstroMatch é uma rede social com o objetivo de promover a conexão e interação entre seus mais diversos usuários.
 
 ---
 
 ## ⚙️ Funcionalidades
 
+- Tela Inicial: Exibe o perfil de um usuário cadastrado (com foto, nome, idade e descrição) e as opções de escolha (like/dislike).
+
+- Tela de Matches: Exibe a lista de perfis que deram "match" com o usuário e a opção de retornar à tela inicial.
+
+- 5 botões: like, dislike, ver matches (tela de matches), ver perfis (tela inicial) e reiniciar matches.
 
 ---
 
@@ -28,9 +33,17 @@ $ npm run start
 
 ## 🛠 Tecnologias Utilizadas
 
+React
 
+Styled-Components
 
 ---
+
+## API
+
+https://documenter.getpostman.com/view/7549981/SW12yx56?version=latest
+
+--
 
 ## 🛠 URL
 
